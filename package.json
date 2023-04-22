@@ -16,7 +16,7 @@
   "author": "Victor Schubert <v@schu.be>",
   "license": "MIT",
   "devDependencies": {
-    "@glennsl/bs-jest": "^0.4.9",
+    "@glennsl/bs-jest": "^0.7.0",
     "bs-platform": "^6.2.1"
   }
 }
